@@ -1,6 +1,6 @@
 # Computer Graphics in Python
 
-![Python Graphics](https://your-image-url.com/python_graphics.png)
+![Python Graphics](https://www.creativefabrica.com/wp-content/uploads/2023/06/13/Python-Beautiful-PopArt-Graphics-72007858-1-580x396.jpg)
 
 Welcome to my "Computer Graphics in Python" repository! 🚀
 
