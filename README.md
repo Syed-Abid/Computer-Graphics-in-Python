@@ -27,6 +27,4 @@ Whether you're a fellow graphics enthusiast, a game developer, or simply curious
 
 Thank you for exploring my "Computer Graphics in Python" repository. Let's continue to design, code, and bring visuals to life together!
 
-![Computer Graphics](https://your-image-url.com/computer_graphics_gif.gif)
-
 **Happy Creating!** 🎮🎨
