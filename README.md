@@ -22,7 +22,6 @@ I'm dedicated to:
 - 🎨 Exploring Visuals: Creating captivating graphics and visual experiences using Python.
 - 🕹️ Game Development: Crafting entertaining and interactive games, like 'Jungle Jolt.'
 - 📣 Sharing Knowledge: Providing code and insights to inspire and guide others on their graphics journey.
-- 🌐 Building a Graphics Community: I'm enthusiastic about connecting with fellow graphics enthusiasts and artists.
 
 Whether you're a fellow graphics enthusiast, a game developer, or simply curious about the world of computer graphics, this repository offers a glimpse into my creative exploration.
 
