@@ -4,7 +4,7 @@
 
 Welcome to my "Computer Graphics in Python" repository! 🚀
 
-This repository is a canvas for my exploration of computer graphics using Python. Here, I've documented my journey through various graphics tasks and projects, including the creation of a 2D game called 'Jungle Jolt.'
+This repository is a canvas for my exploration of computer graphics using Python. Here, I've documented my journey through various graphics tasks and projects, including the creation of a 2D game called **Jungle Jolt**.
 
 ## Repository Contents
 
