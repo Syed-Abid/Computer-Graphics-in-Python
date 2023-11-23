@@ -9,7 +9,7 @@ This repository is a canvas for my exploration of computer graphics using Python
 ## Repository Contents
 
 - 📁 **Graphics Projects**: Explore folders containing my Python code for various computer graphics tasks and projects.
-- 🎮 **Jungle Jolt**: Immerse yourself in 'Jungle Jolt,' a 2D game I created with the help of a YouTube tutorial.
+- 🎮 **Jungle Jolt**: Immerse yourself in **Jungle Jolt** a 2D game I created with the help of a YouTube tutorial.
 - 📄 **README**: You're currently reading the repository's README, providing an overview of its contents and my dedication.
 - 🤝 **Contributing**: While this repository primarily showcases my graphics work, I welcome discussions, feedback, and collaboration with fellow graphics enthusiasts.
 
