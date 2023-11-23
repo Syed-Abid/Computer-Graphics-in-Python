@@ -23,6 +23,6 @@ I'm dedicated to:
 
 Whether you're a fellow graphics enthusiast, a game developer, or simply curious about the world of computer graphics, this repository offers a glimpse into my creative exploration.
 
-Thank you for exploring my "Computer Graphics in Python" repository. Let's continue to design, code, and bring visuals to life together!
+Thank you for exploring my **Computer Graphics in Python** repository. Let's continue to design, code, and bring visuals to life together!
 
 **Happy Creating!** 🎮🎨
