@@ -18,7 +18,7 @@ This repository is a canvas for my exploration of computer graphics using Python
 I'm dedicated to:
 
 - 🎨 Exploring Visuals: Creating captivating graphics and visual experiences using Python.
-- 🕹️ Game Development: Crafting entertaining and interactive games, like 'Jungle Jolt.'
+- 🕹️ Game Development: Crafting entertaining and interactive games, like **Jungle Jolt**.
 - 📣 Sharing Knowledge: Providing code and insights to inspire and guide others on their graphics journey.
 
 Whether you're a fellow graphics enthusiast, a game developer, or simply curious about the world of computer graphics, this repository offers a glimpse into my creative exploration.
