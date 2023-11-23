@@ -15,7 +15,7 @@ This repository is a canvas for my exploration of computer graphics using Python
 
 ## My Dedication
 
-_Dedication fuels creativity._ 💪
+_
 
 I'm dedicated to:
 
