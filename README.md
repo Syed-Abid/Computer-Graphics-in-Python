@@ -16,7 +16,6 @@ This repository is a canvas for my exploration of computer graphics using Python
 ## My Dedication
 
 
-
 I'm dedicated to:
 
 - 🎨 Exploring Visuals: Creating captivating graphics and visual experiences using Python.
