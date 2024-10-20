@@ -1,6 +1,6 @@
 # Computer Graphics in Python
 
-![Python Graphics](https://media.istockphoto.com/id/1321507529/vector/snake-python-mascot-vector-logo-design.jpg?s=1024x1024&w=is&k=20&c=F2891D7BFNR0527oYpqNCljbD_J47NvjjT4sPnl51b8=)
+![Python Graphics](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfRifdzp0N20bUF4o5rINjkv3pIboBuOPKzg&s)
 
 Welcome to my "Computer Graphics in Python" repository! 🚀
 
